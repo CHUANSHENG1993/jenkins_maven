@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  * Unit test for simple App.
- * aded new line of commit
+ * added new line of commit
  * added a second line
  */
 public class AppTest 
